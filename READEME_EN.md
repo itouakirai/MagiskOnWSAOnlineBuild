@@ -28,9 +28,9 @@ Default settings:
 
 Run once a week at 12:00 UTC on Fridays, automatically run after modifying the workflow file, and skip the release if the version number already exists.
 
-Official release version: build parameters: stable version stable; with root access (Magisk); with Google Play; remove Amazon store.
+Official release version: build parameters: stable version stable; with root access (Magisk); remove Google Play; remove Amazon store.
 
-Pre-release version: build parameters: latest RP version; with root access (Magisk); with Google Play; remove Amazon store.
+Pre-release version: build parameters: latest RP version; with root access (Magisk); remove Google Play; remove Amazon store.
 
 <details>
 <summary><h2>How to build it yourself</h2></summary>
