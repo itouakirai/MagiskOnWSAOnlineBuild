@@ -28,9 +28,9 @@ Fork会导致你Fork的仓库的github action计数最终统计到上游仓库�
 
 每周五12点（UTC+0）运行一次，修改workflow文件后自动运行，如果版本号已存在则跳过发布。
 
-正式发布版：build参数：稳定版stable；有root权限(Magisk)；带Google Play；移除Amazon store。
+正式发布版：build参数：稳定版stable；有root权限(Magisk)；移除Google Play；移除Amazon store。
 
-预发布版：build参数：最新版RP；有root权限(Magisk)；带Google Play；移除Amazon store。
+预发布版：build参数：最新版RP；有root权限(Magisk)；移除Google Play；移除Amazon store。
 
 <details>
 <summary><h2>如何自己构建</h2></summary>
