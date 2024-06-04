@@ -1,6 +1,6 @@
 [简体中文](README.md) | [Engilsh](READEME_EN.md)
 
-## [点击下载最新版本](https://github.com/yige-yigeren/MagiskOnWSAOnlineBuild/releases/latest)
+## [点击下载最新版本](https://github.com/itouakirai/MagiskOnWSAOnlineBuild/releases/latest)
 
 # 公告
 
